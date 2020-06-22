@@ -28,3 +28,20 @@ Please learn how to debug, it will help you help yourself AND help others help y
 
 **If you do cannot provide boot and/or debug logs, please provide a ZIP of your EFI**
 Make sure to remove your sensitive SMBIOS info before sharing.
+
+Finally, an example of a **bad** issue:
+```
+My keyboard does not work. Can you please help?
+```
+
+Example of a **good** issue:
+```
+My keyboard does not work.
+I have applied the appropriate patches according to your docs as followed:
+`ssdt-keyboard1.aml`
+`voodoo-keyboard`
+
+Here are my boot logs:
+
+Here is  my EFI:
+```
