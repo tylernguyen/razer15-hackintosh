@@ -38,12 +38,12 @@
 | Fully functional                                                                                                                                                    | Non-functional                                                           | Semi-functional. Additional pulls needed and welcomed. |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------ |
 | WiFi, Bluetooth, Apple Continuity ✅ \*need [network card replacement](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/1_README-HARDWARE.md) | NVIDIA GPU (DISABLED using ACPI patch) ❌                                |                                                        |
-| USB A, USB C, Webcam, Audio Playback/Recording Sleep, Intel Graphics, Touchpad ✅                                                                                   | HDMI and DisplayPort (Tied to NVIDIA GPU)❌ See [NVIDIA Control Panel]() |                                                        |
+| USB A, USB C, Webcam, Audio Playback/Recording Sleep, Intel Graphics, Touchpad ✅                                                                                   | HDMI and DisplayPort (Tied to NVIDIA GPU)❌ See [NVIDIA Control Panel](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/assets/img/nvidia-control-panel.png) |                                                        |
 | iCloud suite: App Store, iMessage, FaceTime, iCloud Drive, etc... ✅                                                                                                | Hibernation ❌                                                           |                                                       |
 | Multimedia Fn keys ✅                                                                                                                                               |                                                                          |                                                        |
 |                                                                                                                                                                     |                                                                          |                                                        |
 
-**For more information regarding certain features, please refer to [`docs/4_README-POSTinstallation.md`](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/3_README-POSTinstallation.md)**
+**For more information regarding certain features, please refer to [`docs/4_README-POSTinstallation.md`](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/4_README-POSTinstallation.md)**
 
 > ## NEEDED:
 
@@ -64,7 +64,7 @@ Explore links included this README, especially those in references and other raz
 Once you are ready, follow the series of README files included `docs/`.  
 [**1_README-HARDWARE**](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/1_README-HARDWARE.md): Hardware notes before starting.  
 [**2_README-BIOS-mod-and-settings**](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/2_README-BIOS-mod-and-settings.md): Hardware notes before starting.  
-[**3_README-installMEDIA**](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/3_README-installMEDIA.md): Creating the macOS install drive.  
+[**3_README-install**](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/3_README-install.md): Creating the macOS install drive.  
 [**4_README-POSTinstallation**](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/4_README-POSTinstallation.md): Settings and tweaks post installation.  
 [**5_README-ACPIpatching**](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/5_README-ACPIpatching.md): The hardest and most time consuming part, patching the system ACPI table for battery status, brightness, sleep, thunderbolt, thunderbolt hotplugging, etc...  
 [**6_README-other.md**](https://github.com/tylernguyen/razer15-hackintosh/blob/master/docs/6_README-other.md): for other notices
